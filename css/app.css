@@ -13,5 +13,8 @@
 .page-content {
     padding-bottom: 16px;
 }
-
+.tache-faite {
+  text-decoration: line-through;
+  color: #8e8e93;
+}
 /* SÉANCE 3 : ajouter ici le style de la tâche cochée (texte barré) */
